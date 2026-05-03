@@ -1,0 +1,3737 @@
+{
+  "snapshot_at": "2026-05-03T18:56:01.863Z",
+  "schools": [
+    {
+      "id": "20260428_000001_bopsu",
+      "name": "법수초등학교",
+      "fee_type": "회차별수강료",
+      "fee_per_student": 45000,
+      "kit_fee": 0,
+      "class_days": "월",
+      "class_time_A_start": "1899-12-30",
+      "class_time_A_end": "1899-12-30",
+      "class_time_B_start": "1899-12-30",
+      "class_time_B_end": "1899-12-30",
+      "class_time_C_start": "1899-12-30",
+      "class_time_C_end": "1899-12-30",
+      "kit1_type": "코딩드론",
+      "kit1_months": 12,
+      "kit2_type": "배틀드론",
+      "kit2_months": 12,
+      "kit3_type": "",
+      "kit3_months": "",
+      "note": "시간당 강사료",
+      "attendance_landscape": "https://drive.google.com/file/d/1GTGBDBT4T7PZhk8GttHNXLgY6_yvutAN/view?usp=drivesdk",
+      "template_monthly_plan": "",
+      "template_attendance": "",
+      "template_instructor_invoice": "",
+      "template_activity_log": "",
+      "template_student_roster": "",
+      "template_kit_statement": "",
+      "subject_name": "드론"
+    },
+    {
+      "id": "20260428_000002_hoam",
+      "name": "호암초등학교",
+      "fee_type": "회차별수강료",
+      "fee_per_student": 6250,
+      "kit_fee": 23000,
+      "class_days": "화",
+      "class_time_A_start": "1899-12-30",
+      "class_time_A_end": "1899-12-30",
+      "class_time_B_start": "1899-12-30",
+      "class_time_B_end": "1899-12-30",
+      "class_time_C_start": "1899-12-30",
+      "class_time_C_end": "1899-12-30",
+      "kit1_type": "항공",
+      "kit1_months": 12,
+      "kit2_type": "안전망드론",
+      "kit2_months": 12,
+      "kit3_type": "코딩드론",
+      "kit3_months": 12,
+      "note": "1인 회차당 수강료",
+      "attendance_landscape": "https://drive.google.com/file/d/1EKQU4yX8BFUyIWgBwYw5JtbDDWOEeizf/view?usp=drivesdk",
+      "template_monthly_plan": "https://docs.google.com/spreadsheets/d/1IKK-8d6qmRvAtDzaslefgvcB7hkvqb4aOt09QscgNgs/edit?usp=sharing",
+      "template_attendance": "https://docs.google.com/spreadsheets/d/1uihJWgsxG_5gVfq5XMba00f1E19pNFzI/edit?usp=drivesdk&ouid=108916770131716436322&rtpof=true&sd=true",
+      "template_instructor_invoice": "https://docs.google.com/spreadsheets/d/1l1mH56eJ5P_C0biw7QSY-urw4HC9dunI/edit?usp=drivesdk&ouid=108916770131716436322&rtpof=true&sd=true",
+      "template_activity_log": "",
+      "template_student_roster": "https://docs.google.com/spreadsheets/d/1lzzRrqewS753u7zlIGYjEqE02gMwaaFx/edit?usp=drivesdk&ouid=108916770131716436322&rtpof=true&sd=true",
+      "template_kit_statement": "",
+      "subject_name": "드론마스터"
+    },
+    {
+      "id": "20260428_000003_yegok",
+      "name": "예곡초등학교",
+      "fee_type": "회차별수강료",
+      "fee_per_student": 45000,
+      "kit_fee": 24000,
+      "class_days": "수",
+      "class_time_A_start": "1899-12-30",
+      "class_time_A_end": "1899-12-30",
+      "class_time_B_start": "1899-12-30",
+      "class_time_B_end": "1899-12-30",
+      "class_time_C_start": "1899-12-30",
+      "class_time_C_end": "1899-12-30",
+      "kit1_type": "항공",
+      "kit1_months": 12,
+      "kit2_type": "축구드론",
+      "kit2_months": 12,
+      "kit3_type": "코딩카",
+      "kit3_months": 12,
+      "note": "시간당 강사료, 코딩카(기타)",
+      "attendance_landscape": "https://drive.google.com/file/d/1zIwzc-eWL8fYjiIFEo---JZ4snXX50vJ/view?usp=drivesdk",
+      "template_monthly_plan": "",
+      "template_attendance": "",
+      "template_instructor_invoice": "",
+      "template_activity_log": "",
+      "template_student_roster": "",
+      "template_kit_statement": "",
+      "subject_name": "드론"
+    },
+    {
+      "id": "20260428_000004_gaya",
+      "name": "가야초등학교",
+      "fee_type": "회차별수강료",
+      "fee_per_student": 6250,
+      "kit_fee": 23000,
+      "class_days": "목",
+      "class_time_A_start": "1899-12-30",
+      "class_time_A_end": "1899-12-30",
+      "class_time_B_start": "1899-12-30",
+      "class_time_B_end": "1899-12-30",
+      "class_time_C_start": "1899-12-30",
+      "class_time_C_end": "1899-12-30",
+      "kit1_type": "항공",
+      "kit1_months": 12,
+      "kit2_type": "안전망드론",
+      "kit2_months": 12,
+      "kit3_type": "코딩드론",
+      "kit3_months": 12,
+      "note": "1인 회차당 수강료",
+      "attendance_landscape": "",
+      "template_monthly_plan": "",
+      "template_attendance": "",
+      "template_instructor_invoice": "",
+      "template_activity_log": "",
+      "template_student_roster": "",
+      "template_kit_statement": "",
+      "subject_name": "드론(항공과학)"
+    },
+    {
+      "id": "20260428_000005_jangbok",
+      "name": "장복초등학교",
+      "fee_type": "월수강료",
+      "fee_per_student": 25000,
+      "kit_fee": 23000,
+      "class_days": "금",
+      "class_time_A_start": "1899-12-30",
+      "class_time_A_end": "1899-12-30",
+      "class_time_B_start": "1899-12-30",
+      "class_time_B_end": "1899-12-30",
+      "class_time_C_start": "1899-12-30",
+      "class_time_C_end": "1899-12-30",
+      "kit1_type": "항공",
+      "kit1_months": 12,
+      "kit2_type": "안전망드론",
+      "kit2_months": 12,
+      "kit3_type": "축구드론",
+      "kit3_months": 12,
+      "note": "월 수강료",
+      "attendance_landscape": "",
+      "template_monthly_plan": "",
+      "template_attendance": "",
+      "template_instructor_invoice": "",
+      "template_activity_log": "https://docs.google.com/spreadsheets/d/1EfcRoHVPRStr9QP-tVuHCxASrchv8hrXvMsA2kaU6VI/edit?usp=sharing",
+      "template_student_roster": "",
+      "template_kit_statement": "",
+      "subject_name": "항공드론"
+    },
+    {
+      "id": "",
+      "name": "",
+      "fee_type": "",
+      "fee_per_student": "",
+      "kit_fee": "",
+      "class_days": "",
+      "class_time_A_start": "",
+      "class_time_A_end": "",
+      "class_time_B_start": "",
+      "class_time_B_end": "",
+      "class_time_C_start": "",
+      "class_time_C_end": "",
+      "kit1_type": "",
+      "kit1_months": "",
+      "kit2_type": "",
+      "kit2_months": "",
+      "kit3_type": "",
+      "kit3_months": "",
+      "note": "",
+      "attendance_landscape": "",
+      "template_monthly_plan": "",
+      "template_attendance": "",
+      "template_instructor_invoice": "",
+      "template_activity_log": " ",
+      "template_student_roster": "",
+      "template_kit_statement": "",
+      "subject_name": ""
+    }
+  ],
+  "students": [
+    {
+      "id": "jangbok_001",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 1,
+      "student_number": 12,
+      "name": "박**",
+      "parent_contact": "010-8809-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_002",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 2,
+      "student_number": 14,
+      "name": "서**",
+      "parent_contact": "010-2080-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_003",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 2,
+      "student_number": 6,
+      "name": "김**",
+      "parent_contact": "010-4090-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_004",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 3,
+      "student_number": 1,
+      "name": "강**",
+      "parent_contact": "010-9280-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_005",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 3,
+      "student_number": 19,
+      "name": "주**",
+      "parent_contact": "010-7163-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_006",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 3,
+      "student_number": 20,
+      "name": "주**",
+      "parent_contact": "010-7163-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_007",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 1,
+      "student_number": 8,
+      "name": "배**",
+      "parent_contact": "010-2866-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_008",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 1,
+      "student_number": 16,
+      "name": "조**",
+      "parent_contact": "010-9065-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_009",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 1,
+      "student_number": 17,
+      "name": "최**",
+      "parent_contact": "010-4450-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_010",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 2,
+      "student_number": 10,
+      "name": "오**",
+      "parent_contact": "010-6554-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_011",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 4,
+      "student_number": 5,
+      "name": "박**",
+      "parent_contact": "010-5198-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_012",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 3,
+      "student_number": 18,
+      "name": "최**",
+      "parent_contact": "010-2624-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_013",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 4,
+      "student_number": 17,
+      "name": "이**",
+      "parent_contact": "010-7664-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_014",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 4,
+      "student_number": 9,
+      "name": "안**",
+      "parent_contact": "010-4705-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_015",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 3,
+      "student_number": 4,
+      "name": "김**",
+      "parent_contact": "010-2829-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_016",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 2,
+      "student_number": 8,
+      "name": "배**",
+      "parent_contact": "010-7614-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_017",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "B",
+      "grade": 1,
+      "class_number": 2,
+      "student_number": 3,
+      "name": "김**",
+      "parent_contact": "010-5027-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_018",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "B",
+      "grade": 2,
+      "class_number": 1,
+      "student_number": 5,
+      "name": "박**",
+      "parent_contact": "010-2056-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_019",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "B",
+      "grade": 2,
+      "class_number": 1,
+      "student_number": 15,
+      "name": "전**",
+      "parent_contact": "010-4579-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_020",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "B",
+      "grade": 3,
+      "class_number": 1,
+      "student_number": 3,
+      "name": "김**",
+      "parent_contact": "010-2126-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_021",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "B",
+      "grade": 3,
+      "class_number": 1,
+      "student_number": 8,
+      "name": "박**",
+      "parent_contact": "010-2883-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_022",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "B",
+      "grade": 3,
+      "class_number": 3,
+      "student_number": 3,
+      "name": "김**",
+      "parent_contact": "010-6660-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_023",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "B",
+      "grade": 3,
+      "class_number": 3,
+      "student_number": 17,
+      "name": "조**",
+      "parent_contact": "010-8515-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_024",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "B",
+      "grade": 3,
+      "class_number": 3,
+      "student_number": 21,
+      "name": "허**",
+      "parent_contact": "010-7164-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_025",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "B",
+      "grade": 3,
+      "class_number": 4,
+      "student_number": 11,
+      "name": "박**",
+      "parent_contact": "010-7436-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_026",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "B",
+      "grade": 4,
+      "class_number": 2,
+      "student_number": 16,
+      "name": "이**",
+      "parent_contact": "010-7939-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_027",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "C",
+      "grade": 2,
+      "class_number": 1,
+      "student_number": 11,
+      "name": "양**",
+      "parent_contact": "010-4594-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_028",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "C",
+      "grade": 3,
+      "class_number": 1,
+      "student_number": 15,
+      "name": "이**",
+      "parent_contact": "010-5508-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_029",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "C",
+      "grade": 3,
+      "class_number": 2,
+      "student_number": 2,
+      "name": "김**",
+      "parent_contact": "010-2946-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_030",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "C",
+      "grade": 3,
+      "class_number": 4,
+      "student_number": 12,
+      "name": "배**",
+      "parent_contact": "010-7442-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_031",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "C",
+      "grade": 4,
+      "class_number": 1,
+      "student_number": 4,
+      "name": "김**",
+      "parent_contact": "010-5667-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_032",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "C",
+      "grade": 4,
+      "class_number": 5,
+      "student_number": 3,
+      "name": "김**",
+      "parent_contact": "010-9176-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_033",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "C",
+      "grade": 6,
+      "class_number": 1,
+      "student_number": 25,
+      "name": "김**",
+      "parent_contact": "010-5595-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_034",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "C",
+      "grade": 6,
+      "class_number": 3,
+      "student_number": 11,
+      "name": "소**",
+      "parent_contact": "010-7144-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-07",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_035",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 1,
+      "student_number": 21,
+      "name": "정**",
+      "parent_contact": "",
+      "kit_status": "신규",
+      "enrolled_at": "2026-03-25",
+      "ended_at": ""
+    },
+    {
+      "id": "jangbok_036",
+      "school_id": "20260428_000005_jangbok",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 3,
+      "student_number": 18,
+      "name": "정**",
+      "parent_contact": "",
+      "kit_status": "신규",
+      "enrolled_at": "2026-03-25",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_001",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 1,
+      "student_number": 7,
+      "name": "안**",
+      "parent_contact": "",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-04",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_002",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 1,
+      "student_number": 16,
+      "name": "장**",
+      "parent_contact": "",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-04",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_003",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 2,
+      "student_number": 10,
+      "name": "박**",
+      "parent_contact": "",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-04",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_004",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 2,
+      "student_number": 11,
+      "name": "박**",
+      "parent_contact": "",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-04",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_005",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 2,
+      "student_number": 17,
+      "name": "전**",
+      "parent_contact": "",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-04",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_006",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 4,
+      "student_number": 7,
+      "name": "배**",
+      "parent_contact": "",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-04",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_007",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 1,
+      "student_number": 9,
+      "name": "이**",
+      "parent_contact": "",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-04",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_008",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 3,
+      "student_number": 12,
+      "name": "서**",
+      "parent_contact": "",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-04",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_009",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 3,
+      "class_number": 1,
+      "student_number": 23,
+      "name": "차**",
+      "parent_contact": "",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-04",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_010",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 4,
+      "class_number": 1,
+      "student_number": 24,
+      "name": "최**",
+      "parent_contact": "",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-04",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_011",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 4,
+      "class_number": 5,
+      "student_number": 12,
+      "name": "서**",
+      "parent_contact": "",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-04",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_012",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 5,
+      "class_number": 7,
+      "student_number": 5,
+      "name": "문**",
+      "parent_contact": "",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-04",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_013",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 4,
+      "class_number": 2,
+      "student_number": 0,
+      "name": "안**",
+      "parent_contact": "",
+      "kit_status": "신규",
+      "enrolled_at": "2026-04-01",
+      "ended_at": ""
+    },
+    {
+      "id": "hoam_014",
+      "school_id": "20260428_000002_hoam",
+      "enrolled_class": "A",
+      "grade": 3,
+      "class_number": 3,
+      "student_number": 15,
+      "name": "안**",
+      "parent_contact": "",
+      "kit_status": "신규",
+      "enrolled_at": "2026-04-01",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_001",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 1,
+      "student_number": 18,
+      "name": "조**",
+      "parent_contact": "010-9600-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_002",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 1,
+      "student_number": 19,
+      "name": "차**",
+      "parent_contact": "010-4019-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_003",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 2,
+      "student_number": 5,
+      "name": "김**",
+      "parent_contact": "010-4930-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_004",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 2,
+      "student_number": 10,
+      "name": "배**",
+      "parent_contact": "010-6374-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_005",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 2,
+      "student_number": 11,
+      "name": "신**",
+      "parent_contact": "010-7665-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_006",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 3,
+      "student_number": 11,
+      "name": "안**",
+      "parent_contact": "010-3563-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_007",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 1,
+      "student_number": 4,
+      "name": "김**",
+      "parent_contact": "010-4570-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_008",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 1,
+      "student_number": 15,
+      "name": "이**",
+      "parent_contact": "010-8210-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_009",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 1,
+      "student_number": 18,
+      "name": "전**",
+      "parent_contact": "010-5074-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_010",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 2,
+      "student_number": 22,
+      "name": "조**",
+      "parent_contact": "010-2026-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_011",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "A",
+      "grade": 2,
+      "class_number": 3,
+      "student_number": 5,
+      "name": "김**",
+      "parent_contact": "010-5577-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_012",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "A",
+      "grade": 1,
+      "class_number": 3,
+      "student_number": 7,
+      "name": "김**",
+      "parent_contact": "",
+      "kit_status": "신규",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_013",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "B",
+      "grade": 3,
+      "class_number": 1,
+      "student_number": 10,
+      "name": "서**",
+      "parent_contact": "010-9163-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_014",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "B",
+      "grade": 4,
+      "class_number": 3,
+      "student_number": 5,
+      "name": "박**",
+      "parent_contact": "010-9352-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_015",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "B",
+      "grade": 5,
+      "class_number": 2,
+      "student_number": 1,
+      "name": "지**",
+      "parent_contact": "010-7448-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_016",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "B",
+      "grade": 5,
+      "class_number": 4,
+      "student_number": 12,
+      "name": "박**",
+      "parent_contact": "010-9352-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_017",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "B",
+      "grade": 5,
+      "class_number": 4,
+      "student_number": 7,
+      "name": "박**",
+      "parent_contact": "010-2912-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    },
+    {
+      "id": "gaya_018",
+      "school_id": "20260428_000004_gaya",
+      "enrolled_class": "B",
+      "grade": 6,
+      "class_number": 2,
+      "student_number": 9,
+      "name": "서**",
+      "parent_contact": "010-2235-****",
+      "kit_status": "기존",
+      "enrolled_at": "2026-03-05",
+      "ended_at": ""
+    }
+  ],
+  "curricula": [
+    {
+      "id": "bopsu_cur_001",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 1,
+      "title": "드론이란?",
+      "content": "하늘을 나는 여러 가지 물체에 대해 알아보아요. 드론은 무엇인지 생각해 봅시다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 1,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_002",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 2,
+      "title": "배틀 드론 각 부분 알기",
+      "content": "베틀 드론의 각 부분을 알아봅시다. 드론의 각 부분 명칭을 알 수 있나요? 드론으로 모터 시동을 걸고 꺼봅시다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 2,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_003",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 3,
+      "title": "안전 사항 및 기초 조작법",
+      "content": "드론 조종자가 지켜야 할 안전 사항을 알고, 배틀 드론의 기초 조작법에 대해 알아본다. 베틀 드론으로 상승과 하강을 해본다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 3,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_004",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 4,
+      "title": "드론 프로펠러 알아보기",
+      "content": "드론 프로펠러의 생김새에 대해 알아본다. 베틀 드론의 프로펠러는 몇 개이고, 몇 종류인지 이야기해 봅시다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 4,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_005",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 5,
+      "title": "공중 정지비행(호버링) ①",
+      "content": "비행의 기초가 되는 공중 정지비행을 무엇이라고 부를 수 있는지 알아보아요. 친구들과 함께 30초 유지 놀이를 통해 공중 정지비행을 잘 할 수 있는 방법을 익힌다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 5,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_006",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 6,
+      "title": "공중 정지비행(호버링) ②",
+      "content": "비행의 기초가 되는 공중 정지비행을 무엇이라고 부를 수 있는지 알아보아요. 친구들과 함께 30초 유지 놀이를 통해 공중 정지비행을 잘 할 수 있는 방법을 익힌다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 6,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_007",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 7,
+      "title": "드론 앞뒤 방향 조종",
+      "content": "드론의 앞/뒤를 구분하고 자전거와 드론의 공통점을 살펴보아요. 귀여운 드론을 앞뒤로 산책시켜 볼까요?",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 7,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_008",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 8,
+      "title": "도형 그리기 비행",
+      "content": "드론으로 네모 도형을 만들어 볼까요? 친구들과 함께 드론으로 도형 그리기 놀이를 해보아요.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 8,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_009",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 9,
+      "title": "싱크로나이즈 및 방향 전환",
+      "content": "아름다운 싱크로나이즈 경기를 본적이 있나요? 드론으로 방향을 바꾸는 연습해 보아요. 친구들과 함께 드론 싱크로나이즈 연습을 한다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 9,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_010",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 10,
+      "title": "드론 LED 활용",
+      "content": "드론에 표시되는 LED가 어떤 의미인지 알아본다. 친구들과 함께 드론 LED를 변경하여 팀 컬러를 바꾸어 본다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 10,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_011",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 11,
+      "title": "모터 회전속도 및 스피드 조절",
+      "content": "세상에서 가장 빠른 드론은 어떤 드론일까요? 드론과 드론의 모터 회전속도에 대해 알아보고 스피드 변경하여 드론 실습을 한다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 11,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_012",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 12,
+      "title": "비행거리 및 막대 돌아오기 ①",
+      "content": "드론으로 어디까지 비행할 수 있을까요? 드론의 비행거리와 조종기의 종류에 대해 알고 막대 돌아오기 연습을 진행합니다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 12,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_013",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 13,
+      "title": "비행거리 및 막대 돌아오기 ②",
+      "content": "드론의 비행거리와 조종기의 종류에 대해 알고 막대 돌아오기 연습을 진행합니다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 13,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_014",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 14,
+      "title": "드론 꼬리잡기",
+      "content": "드론 꼬리잡기에 대해 알아봅시다. 드론의 공기흐름에 대해서 알고 꼬리잡기 연습을 해봅시다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 14,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_015",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 15,
+      "title": "적외선센서 이해",
+      "content": "드론의 적외선센서에 대해 알아본다. 드론을 책상에 놓고 적외선 수신부에 인식해 본다. 적외선 발신 센서는 어디에 있는지 알아본다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 15,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_016",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 16,
+      "title": "드론 배틀 입문",
+      "content": "다양한 드론 배틀 종류에 대해 알아본다. 적외선센서가 배틀에 어떻게 사용되는지 알고 친구들과 함께 책상 위 배틀 연습을 시행한다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 16,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_017",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 17,
+      "title": "적외선센서 배틀 실습",
+      "content": "드론의 적외선센서에 대해 알아본다. 드론을 책상에 놓고 적외선 수신부에 인식해 본다. 적외선 발신 센서는 어디에 있는지 알아본다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 17,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_018",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 18,
+      "title": "드론 배틀 연습",
+      "content": "다양한 드론 배틀 종류에 대해 알아본다. 적외선센서가 배틀에 어떻게 사용되는지 알고 친구들과 함께 책상 위 배틀 연습을 시행한다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 18,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_019",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 19,
+      "title": "배틀 아이템 활용",
+      "content": "드론의 베틀 아이템 종류를 살펴볼까요? 드론의 베틀 아이템 실행 연습을 해본다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 19,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_020",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 20,
+      "title": "개인 배틀 토너먼트",
+      "content": "1:1로 친구와 짝지어 개인별 배틀 토너먼트전을 펼칩니다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 20,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_021",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 21,
+      "title": "팀 배틀 경기",
+      "content": "드론 배틀 팀 경기 규정을 알아본다. 친구들과 팀을 나누어 노래에 맞춰 드론 배틀을 진행한다.",
+      "kit_type": "배틀드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 21,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_022",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 22,
+      "title": "코딩드론 소개 및 페어링",
+      "content": "코딩이 무엇인지 알고 코딩드론의 특징에 대해 알아본다. 코딩드론의 주요 구성요소에 대해 알아본다. 코딩 드론 페어링을 해본다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 22,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_023",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 23,
+      "title": "코딩드론 이/착륙 조종법",
+      "content": "드론의 비행 원리에 대해 알아본다. 코딩드론의 이/착륙 조종법을 알아본다. 드론을 비행하는데 지켜야 할 안전 수칙에 대해 알아본다. 코딩 드론으로 제자리 이/착륙을 연습한다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 23,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_024",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 24,
+      "title": "카드 코딩 이/착륙",
+      "content": "카드 코딩이 무엇인지 알고, 카드 코딩 방법에 대해 알아본다. 카드코딩으로 이/착륙을 해본다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 24,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_025",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 25,
+      "title": "엔트리 블록 코딩 이/착륙",
+      "content": "엔트리와 블록 코딩이 무엇인지 알고, 엔트리 사용법에 대해 알아본다. 엔트리로 이/착륙을 코딩하여 실행해 본다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 25,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_026",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 26,
+      "title": "호버링 조종법",
+      "content": "코딩드론의 기본 조종법을 알아본다. 호버링이 무엇인지 알고, 코딩 드론으로 3가지 호버링을 연습한다. 친구들과 함께 호버링 게임을 통해 호버링 조종법을 익힌다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 26,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_027",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 27,
+      "title": "전후좌우 기본 조종",
+      "content": "드론의 3축에 대해 알아본다. 조종과 관련된 용어인 Throttle, Yaw, Pitch, Roll을 이해하고, 전/후/좌/우 비행을 연습한다. 친구들과 함께 동서남북 게임을 통해 기본 조종법을 익힌다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 27,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_028",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 28,
+      "title": "카드코딩 기본 비행",
+      "content": "카드코딩으로 기본 비행(상승/하강, 전진/후진, 좌/우 이동)을 해본다. 친구들과 함께 카드코딩으로 길 찾기 게임을 해본다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 28,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_029",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 29,
+      "title": "엔트리 기본 비행",
+      "content": "엔트리로 기본 비행(상승/하강, 전진/후진, 좌/우 이동)을 코딩해본다. 친구들과 함께 엔트리로 길 찾기 게임을 해본다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 29,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_030",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 30,
+      "title": "회전 비행 및 드론 레이싱",
+      "content": "드론 조종자 준수사항에 대해 알아본다. 드론의 전진 방향을 이해하고, 회전 비행을 연습한다. 친구들과 함께 드론 레이싱 게임을 통해 기본 조종법을 익힌다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 30,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_031",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 31,
+      "title": "드론 볼링",
+      "content": "드론의 여러 가지 종류에 대해 알아본다. 책상 위 종이컵을 드론으로 부딪쳐 떨어뜨리는 연습을 한다. 팀을 이뤄 드론 볼링 경기를 실시한다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 31,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_032",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 32,
+      "title": "카드코딩 회전 및 LED",
+      "content": "카드코딩으로 기본 비행(회전)을 해본다. 카드코딩으로 코딩드론의 LED를 변경하며 비행하는 코딩을 해본다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 32,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_033",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 33,
+      "title": "엔트리 회전 및 Buzzer 코딩",
+      "content": "엔트리로 기본 비행(회전)을 코딩해본다. 엔트리로 코딩드론, 조종기의 Buzzer를 이용한 코딩을 해본다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 33,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_034",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 34,
+      "title": "드론 조종모드 및 복합키",
+      "content": "드론 조종모드의 종류와 차이점에 대해 알아본다. 복합키 조종이 무엇인지 알고, 복합키 조종법을 배워본다. 코딩드론으로 복합키 조종을 연습한다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 34,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_035",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 35,
+      "title": "드론 배터리 및 패턴 비행",
+      "content": "드론 배터리의 특징과 사용 시 주의사항에 대해 알아본다. 코딩드론으로 다각형 및 나선형 패턴 비행을 해본다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 35,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_036",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 36,
+      "title": "카드코딩 반복문",
+      "content": "코딩에서 반복문이 무엇인지 알아본다. 카드코딩으로 반복문을 사용하는 방법을 알아본다. 카드코딩으로 반복문을 사용하여 패턴 비행을 해본다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 36,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_037",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 37,
+      "title": "엔트리 반복문",
+      "content": "엔트리에서 반복문을 사용하는 방법을 알아본다. 엔트리로 반복문을 사용하여 패턴 비행을 코딩해본다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 37,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_038",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 38,
+      "title": "드론 통신 및 장애물 통과",
+      "content": "드론의 통신 방식에 대해 알아본다. 코딩드론으로 장애물 1개를 통과해본다. 여러 개의 장애물을 연속으로 통과해본다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 38,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "bopsu_cur_039",
+      "school_id": "20260428_000001_bopsu",
+      "session_no": 39,
+      "title": "장애물 레이싱 경기",
+      "content": "드론이 다양한 분야에서 어떻게 활용되고 있는지 알아본다. 다양한 방식으로 구성된 여러 개의 장애물을 연속으로 통과해본다. 친구들과 함께 장애물 레이싱 경기를 실시한다.",
+      "kit_type": "코딩드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 39,
+      "updated_at": "2026-04-28"
+    },
+    {
+      "id": "yegok_cur_001",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 1,
+      "title": "하늘을 나는 꿈 / 활공 글라이더",
+      "content": "분기 수업안내. 그리스로마신화 \"이카루스의 날개\". 활공 글라이더 제작.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 1,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_002",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 2,
+      "title": "양력 / 미드윙 전동",
+      "content": "비행기에 작용하는 힘 - 양력. 중익기 비행기의 비행 특성. 미드윙 전동 제작.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 2,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_003",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 3,
+      "title": "항로 / 제비 글라이더",
+      "content": "비행기의 항로. 철새들의 비행. 제비 글라이더 제작.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 3,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_004",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 4,
+      "title": "공기 대포",
+      "content": "공기의 압력. 파동과 진동. 공기대포 제작.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 4,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_005",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 5,
+      "title": "초음파 / 베트윙 글라이더",
+      "content": "초음파의 정의. 생활속의 초음파. 베트윙 글라이더 제작.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 5,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_006",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 6,
+      "title": "전투기의 종류 / Vultee-11 글라이더",
+      "content": "전투기의 종류. 우리나라에서 사용하는 전투기. Vultee-11 글라이더 제작.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 6,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_007",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 7,
+      "title": "추력 / x-윙 전동",
+      "content": "비행기에 작용하는 힘 - 추력. 비행기의 엔진. x-윙 전동 제작.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 7,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_008",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 8,
+      "title": "작용 반작용 / 에어로켓",
+      "content": "뉴턴의 작용 반작용 법칙. 신기전. 에어로켓 제작.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 8,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_009",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 9,
+      "title": "비행체와 드론에 대한 이해 / 스카이킥 구성품 소개",
+      "content": "비행체의 종류, 드론의 정의 및 종류에 대해 알아본다. 스카이킥의 특징에 대해 알아본다. 스카이킥의 주요 구성요소에 대해 알아본다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 9,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_010",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 10,
+      "title": "페어링 / 드론 비행 원리 / 이·착륙 조종법",
+      "content": "스카이킥 페어링을 해본다. 드론의 비행 원리에 대해 알아본다. 스카이킥의 이/착륙 조종법을 알아본다. 드론 안전 수칙에 대해 알아본다. 스카이킥으로 제자리 이/착륙을 연습한다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 10,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_011",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 11,
+      "title": "이·착륙 연습 / 스카이킥 조종법 / 호버링 연습",
+      "content": "스카이킥으로 제자리 이/착륙을 연습한다. 스카이킥의 전진, 후진, 좌/우 이동, 좌/우 회전 조종법을 알아본다. 호버링이 무엇인지 알고 스카이킥으로 기본 호버링을 연습한다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 11,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_012",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 12,
+      "title": "드론의 3축 / 호버링 연습",
+      "content": "드론의 3축에 대해 알아본다. 스카이킥으로 측면과 정면 호버링을 연습한다. 친구들과 함께 호버링 게임을 통해 호버링 조종법을 익힌다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 12,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_013",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 13,
+      "title": "항공기의 역사와 분류 / 기본 비행 연습 (전후좌우)",
+      "content": "항공기가 무엇인지 알고 역사와 분류에 대해 알아본다. 조종 관련 용어 Throttle, Yaw, Pitch, Roll을 이해하고, 전/후/좌/우 비행을 연습한다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 13,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_014",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 14,
+      "title": "항공기 비행 원리 / 기본 비행 연습 (회전)",
+      "content": "항공기의 비행 원리에 대해 알아본다. 드론의 전진 방향을 이해하고, 회전 비행을 연습한다. 친구들과 함께 드론 레이싱 게임을 통해 기본 비행 조종법을 익힌다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 14,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_015",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 15,
+      "title": "조종모드 / 복합키 조종법",
+      "content": "4가지 조종모드에 대해 알아본다. 복합키 조종이 무엇인지 알고 스카이킥으로 복합키 조종을 연습한다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 15,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_016",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 16,
+      "title": "드론의 종류 / 패턴 비행",
+      "content": "드론의 다양한 종류에 대해 알아본다. 복합키 조종법을 사용하여 여러 가지 모양의 패턴비행을 해본다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 16,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_017",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 17,
+      "title": "드론 배터리 / 장애물 통과",
+      "content": "드론 배터리의 특징과 사용 시 주의사항에 대해 알아본다. 장애물 1개를 통과해본다. 장애물 여러 개를 연속으로 통과해본다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 17,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_018",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 18,
+      "title": "드론 조종자 준수사항 / 장애물 레이싱 경기",
+      "content": "드론 조종자 준수사항에 대해 알아본다. 다양한 방식으로 구성된 여러 개의 장애물을 연속으로 통과해본다. 친구들과 함께 장애물 레이싱 경기를 실시한다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 18,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_019",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 19,
+      "title": "Ready to fly / LED·속도 변경 / 360도 플립 비행",
+      "content": "Ready to fly 어플리케이션에 대해 알아본다. 스카이킥의 LED와 속도를 변경하며 비행한다. 스카이킥으로 360도 플립 비행을 해본다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 19,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_020",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 20,
+      "title": "드론 국가자격증 / 조종자 자격증 취득",
+      "content": "드론 국가자격증에 대해 알아본다. 드론 조종자 자격증 시험에 대해 알아보고 시험코스를 연습한다. 드론 조종자 자격증 시험을 실시한다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 20,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_021",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 21,
+      "title": "드론 올림픽 ① 볼링",
+      "content": "드론 올림픽 1일차(볼링)로 책상 위 종이컵을 드론으로 부딪쳐 떨어뜨리는 연습을 한다. 팀을 이뤄 드론 볼링 경기를 실시한다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 21,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_022",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 22,
+      "title": "드론의 활용 분야 (1) / 드론 올림픽 ② 농구",
+      "content": "드론 올림픽 2일차(농구)로 5m 떨어진 착륙장에 착륙하기와 훌라후프 골대 통과하기 연습을 한다. 팀을 이뤄 드론 농구 경기를 실시한다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 22,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_023",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 23,
+      "title": "드론의 활용 분야 (2) / 드론 올림픽 ③ 릴레이 레이싱",
+      "content": "드론 올림픽 3일차(릴레이 레이싱)로 총 4개 구간으로 이뤄진 레이싱 코스를 연습한다. 팀을 이뤄 드론 릴레이 레이싱 경기를 실시한다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 23,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_024",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 24,
+      "title": "드론의 통신 방식 / 미세조종법",
+      "content": "드론의 통신 방식에 대해 알아본다. 미세조종이 무엇인지 알고 미세조종법에 대해 알아본다. 친구들과 함께 미세조종 호버링 게임을 통해 미세조종법을 익힌다.",
+      "kit_type": "항공",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 24,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_025",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 25,
+      "title": "항공기상 / 드론 축구 소개 및 체험",
+      "content": "항공기상과 기상의 7대 요소 중 기압에 대해 알아본다. 드론 축구가 무엇인지 알고 경기 규정에 대해 알아본다. 간이 드론 축구 경기장을 만들어서 드론 축구를 체험해본다.",
+      "kit_type": "축구드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 25,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_026",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 26,
+      "title": "기상의 7대 요소 (기온&습도) / 드론 축구 수비",
+      "content": "기상의 7대 요소 중 기온과 습도에 대해 알아본다. 드론 축구에서 수비하는 방법에 대해 알아본다. 드론 축구에서 수비를 연습한다.",
+      "kit_type": "축구드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 26,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_027",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 27,
+      "title": "기상의 7대 요소 (구름&강수) / 드론 축구 공격",
+      "content": "기상의 7대 요소 중 구름과 강수에 대해 알아본다. 드론 축구에서 공격하는 방법에 대해 알아본다. 드론 축구에서 공격을 연습한다.",
+      "kit_type": "축구드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 27,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_028",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 28,
+      "title": "기상의 7대 요소 (바람&시정) / 드론 축구 패널티킥",
+      "content": "기상의 7대 요소 중 바람과 시정에 대해 알아본다. 드론 축구에서 패널티킥 방법에 대해 알아본다. 드론 축구에서 패널티킥을 연습한다.",
+      "kit_type": "축구드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 28,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_029",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 29,
+      "title": "항공법 / 드론 축구 연습 경기",
+      "content": "항공법과 드론 운용 시 필요한 절차와 준수사항에 대해 알아본다. 드론 축구 경기장을 직접 만들어본다. 드론 축구 경기장에서 연습 경기를 실시한다.",
+      "kit_type": "축구드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 29,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_030",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 30,
+      "title": "드론 비행 구역 / 드론 축구 실전 경기",
+      "content": "드론 비행 금지 구역, 비행 제한 구역에 대해 알아본다. 드론 축구 실전 경기 규칙에 대해 알아본다. 드론 축구 경기장에서 실전 경기를 실시한다.",
+      "kit_type": "축구드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 30,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_031",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 31,
+      "title": "드론 군집 비행 / 드론 군무",
+      "content": "드론 군집 비행이 무엇인지 알아본다. 여러 가지 드론 군무 동작을 배워보고 연습한다. 친구들과 팀을 정하여 노래에 맞춰 드론 군무를 해본다.",
+      "kit_type": "축구드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 31,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_032",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 32,
+      "title": "로봇, 인공지능 / 드론 군무쇼",
+      "content": "로봇과 인공지능에 대해 알아본다. 친구들과 팀을 정하여 드론 군무쇼를 기획한다. 기획한 드론 군무쇼를 공연한다.",
+      "kit_type": "축구드론",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 32,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_033",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 33,
+      "title": "고카·드론 첫 만남",
+      "content": "드론 원리 + 고카 구성. 안전교육 + 조종 체험.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 33,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_034",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 34,
+      "title": "HW vs SW 이해",
+      "content": "센서와 프로그램. 방향 카드코딩.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 34,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_035",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 35,
+      "title": "카드코딩 기본",
+      "content": "전진·회전. 미로 탈출.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 35,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_036",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 36,
+      "title": "반복문",
+      "content": "사각형 그리기. 경기장 만들기.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 36,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_037",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 37,
+      "title": "조건문",
+      "content": "장애물 회피. 자동주행.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 37,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_038",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 38,
+      "title": "센서 이해",
+      "content": "컬러센서. 색길 따라가기.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 38,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_039",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 39,
+      "title": "라인코딩",
+      "content": "선 따라 주행. 레이싱.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 39,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_040",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 40,
+      "title": "모션코딩",
+      "content": "손 제어. 따라오기.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 40,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_041",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 41,
+      "title": "블록코딩 기초",
+      "content": "앱 연결. LED 멜로디.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 41,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_042",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 42,
+      "title": "블록코딩 심화",
+      "content": "반복+조건. 신호등 주행.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 42,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_043",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 43,
+      "title": "드론 조종 기초",
+      "content": "스로틀·요. 드론 호버링.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 43,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_044",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 44,
+      "title": "드론 미션",
+      "content": "장애물 통과. 드론 코스.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 44,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_045",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 45,
+      "title": "고카+드론 협동",
+      "content": "구조 미션. 팀 프로젝트.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 45,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_046",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 46,
+      "title": "AI 개념 이해",
+      "content": "자율주행 원리. 모의 AI 미션.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 46,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_047",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 47,
+      "title": "대회 준비",
+      "content": "경기 전략. 리그전.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 47,
+      "updated_at": "2026-05-02"
+    },
+    {
+      "id": "yegok_cur_048",
+      "school_id": "20260428_000003_yegok",
+      "session_no": 48,
+      "title": "발표회",
+      "content": "프로젝트 발표.",
+      "kit_type": "기타",
+      "plan_file_url": "",
+      "guide_file_url": "",
+      "order": 48,
+      "updated_at": "2026-05-02"
+    }
+  ],
+  "class_dates": [
+    {
+      "id": "20260428_221803_25davc",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260428_221804_b5mrvq",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260428_221804_0tpjkm",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260428_221805_3s64k5",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-25",
+      "session_order": 4
+    },
+    {
+      "id": "20260428_222459_0jis5e",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260428_222459_wir9uk",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260428_222500_norvrq",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260428_222501_6wi3i7",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-25",
+      "session_order": 4
+    },
+    {
+      "id": "20260428_222749_brfv9r",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260428_222749_r9q6n1",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260428_222750_fih4xu",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260428_222750_pmk5c7",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-25",
+      "session_order": 4
+    },
+    {
+      "id": "20260429_003754_zvqjzu",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_003754_98tssl",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_003755_md4bw8",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_004607_pxu22e",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_004607_7wmjpm",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_004608_uypl4c",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_004624_a4uuwa",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_004624_ciu6sv",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_004624_tyba8x",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_005130_p0fk08",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_005130_wiwt9r",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_005131_mm2mgx",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_010405_01db2k",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_010405_3ngdcu",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_010406_31f3qd",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_010600_1uaa1a",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_010600_xt1swx",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_010601_vbsqd1",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_010746_6n9yxl",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_010747_5x5l97",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_010747_zn89c2",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_010841_366lkw",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_010841_v6j334",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_010841_zd4grr",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_115536_dnhnw3",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_115537_1vd43t",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_115538_t193w9",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_115815_ikaqlh",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_115816_tmktm9",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_115816_hjh52z",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_120743_euxwq6",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_120743_wlp13n",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_120744_h9afcg",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_120829_s0egfa",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_120829_0v47pm",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_120830_ss3fe7",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_121454_1tdh1l",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_121455_d6cxnv",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_121455_o5ly7q",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_204828_keb75w",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_204828_cei6c9",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_204828_ewxph6",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_205918_lbknc0",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-06",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_205918_7q3xv0",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-13",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_205919_vwkr5j",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-20",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_205920_ttvbmh",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-27",
+      "session_order": 4
+    },
+    {
+      "id": "20260429_210232_b1c2sm",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-06",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_210232_akl86e",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-13",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_210232_ik82a4",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-20",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_210233_b64yfo",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-27",
+      "session_order": 4
+    },
+    {
+      "id": "20260429_210518_djh6ly",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-06",
+      "session_order": 1
+    },
+    {
+      "id": "20260429_210518_igoat6",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-13",
+      "session_order": 2
+    },
+    {
+      "id": "20260429_210518_fve4ct",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-20",
+      "session_order": 3
+    },
+    {
+      "id": "20260429_210519_6x2s15",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-27",
+      "session_order": 4
+    },
+    {
+      "id": "20260430_012131_x44zdj",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-06",
+      "session_order": 1
+    },
+    {
+      "id": "20260430_012132_zl8z9u",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-13",
+      "session_order": 2
+    },
+    {
+      "id": "20260430_012132_7achgf",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-20",
+      "session_order": 3
+    },
+    {
+      "id": "20260430_012132_sii2ra",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-27",
+      "session_order": 4
+    },
+    {
+      "id": "20260430_080554_eojzsp",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-06",
+      "session_order": 1
+    },
+    {
+      "id": "20260430_080554_8rkvtc",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-13",
+      "session_order": 2
+    },
+    {
+      "id": "20260430_080555_cn749s",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-20",
+      "session_order": 3
+    },
+    {
+      "id": "20260430_080555_tfmb49",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-27",
+      "session_order": 4
+    },
+    {
+      "id": "20260430_091633_lzzexz",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-06",
+      "session_order": 1
+    },
+    {
+      "id": "20260430_091633_atjhsw",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-13",
+      "session_order": 2
+    },
+    {
+      "id": "20260430_091633_gh7y9v",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-20",
+      "session_order": 3
+    },
+    {
+      "id": "20260430_091634_5s3kku",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-27",
+      "session_order": 4
+    },
+    {
+      "id": "20260430_092803_5wrzmt",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-06",
+      "session_order": 1
+    },
+    {
+      "id": "20260430_092804_u2d13i",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-13",
+      "session_order": 2
+    },
+    {
+      "id": "20260430_092804_yq4mvh",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-20",
+      "session_order": 3
+    },
+    {
+      "id": "20260430_092805_uvqvif",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-27",
+      "session_order": 4
+    },
+    {
+      "id": "20260430_093128_178xqo",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-06",
+      "session_order": 1
+    },
+    {
+      "id": "20260430_093128_vlkh5z",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-13",
+      "session_order": 2
+    },
+    {
+      "id": "20260430_093129_0ybkj1",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-20",
+      "session_order": 3
+    },
+    {
+      "id": "20260430_093129_0722qa",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-27",
+      "session_order": 4
+    },
+    {
+      "id": "20260430_093405_jr1d77",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-06",
+      "session_order": 1
+    },
+    {
+      "id": "20260430_093406_6p9pse",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-13",
+      "session_order": 2
+    },
+    {
+      "id": "20260430_093406_dxrddy",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-20",
+      "session_order": 3
+    },
+    {
+      "id": "20260430_093407_ixlnne",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-27",
+      "session_order": 4
+    },
+    {
+      "id": "20260501_005015_bga4vf",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-07",
+      "session_order": 1
+    },
+    {
+      "id": "20260501_005016_kzakr0",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-14",
+      "session_order": 2
+    },
+    {
+      "id": "20260501_005016_lrmbdv",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-21",
+      "session_order": 3
+    },
+    {
+      "id": "20260501_005017_3x29mi",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-28",
+      "session_order": 4
+    },
+    {
+      "id": "20260501_005042_upm5q3",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-07",
+      "session_order": 1
+    },
+    {
+      "id": "20260501_005042_u25kgx",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-14",
+      "session_order": 2
+    },
+    {
+      "id": "20260501_005042_p7m8l1",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-21",
+      "session_order": 3
+    },
+    {
+      "id": "20260501_005043_frromu",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-28",
+      "session_order": 4
+    },
+    {
+      "id": "20260501_005106_soklpo",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-07",
+      "session_order": 1
+    },
+    {
+      "id": "20260501_005107_cdtwjk",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-14",
+      "session_order": 2
+    },
+    {
+      "id": "20260501_005107_p10xxs",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-21",
+      "session_order": 3
+    },
+    {
+      "id": "20260501_005108_710s7u",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-28",
+      "session_order": 4
+    },
+    {
+      "id": "20260501_005235_dctosn",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-07",
+      "session_order": 1
+    },
+    {
+      "id": "20260501_005236_xfgm77",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-14",
+      "session_order": 2
+    },
+    {
+      "id": "20260501_005236_3rx3hq",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-21",
+      "session_order": 3
+    },
+    {
+      "id": "20260501_005237_xfaf8d",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "class_date": "2026-04-28",
+      "session_order": 4
+    },
+    {
+      "id": "20260502_161333_dsct87",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "class_date": "2026-03-09",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_161333_7sqyo0",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "class_date": "2026-03-16",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_161333_g0h9fo",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "class_date": "2026-03-23",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_161333_aibof4",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "class_date": "2026-03-30",
+      "session_order": 4
+    },
+    {
+      "id": "20260502_161554_4h1yoc",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "class_date": "2026-03-09",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_161555_12ozp8",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "class_date": "2026-03-16",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_161555_rcyq0m",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "class_date": "2026-03-23",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_161555_f7he19",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "class_date": "2026-03-30",
+      "session_order": 4
+    },
+    {
+      "id": "20260502_161739_ickpq9",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "class_date": "2026-03-09",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_161739_jr7y3n",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "class_date": "2026-03-16",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_161740_qnimsl",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "class_date": "2026-03-23",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_161740_fnlihb",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "class_date": "2026-03-30",
+      "session_order": 4
+    },
+    {
+      "id": "20260502_180624_z2lr2h",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-06",
+      "class_date": "2026-06-10",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_180625_6bjqvf",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-06",
+      "class_date": "2026-06-17",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_180625_fpw0mn",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-06",
+      "class_date": "2026-06-24",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_180711_3xcptl",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-06",
+      "class_date": "2026-06-10",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_180711_j7ifqp",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-06",
+      "class_date": "2026-06-17",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_180711_mpby28",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-06",
+      "class_date": "2026-06-24",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_191132_ht9ksx",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_191133_4kpm6p",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_191133_16btqr",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_191445_42n1v5",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_191446_byfvhi",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_191446_y1kleg",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_191716_kfroqp",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "class_date": "2026-06-01",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_191716_ers4mk",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "class_date": "2026-06-08",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_191716_7tti9o",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "class_date": "2026-06-15",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_191717_5wvf6d",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "class_date": "2026-06-22",
+      "session_order": 4
+    },
+    {
+      "id": "20260502_191717_a7jrxa",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "class_date": "2026-06-29",
+      "session_order": 5
+    },
+    {
+      "id": "20260502_193026_yvcng7",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_193026_pjr0m9",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_193027_efttb1",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_204143_mpwkit",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_204143_ue05tz",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_204144_4bnii5",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_204254_n5goqe",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "class_date": "2026-06-01",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_204254_j0wvxb",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "class_date": "2026-06-08",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_204254_rt3ek8",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "class_date": "2026-06-15",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_204255_5f0eoo",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "class_date": "2026-06-22",
+      "session_order": 4
+    },
+    {
+      "id": "20260502_204255_wja5ln",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "class_date": "2026-06-29",
+      "session_order": 5
+    },
+    {
+      "id": "20260502_210956_7w4ide",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-04",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_210956_l6xr2c",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-11",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_210957_3p4311",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "class_date": "2026-05-18",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_231004_hi3zns",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-06",
+      "session_order": 1
+    },
+    {
+      "id": "20260502_231005_paj0b3",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-13",
+      "session_order": 2
+    },
+    {
+      "id": "20260502_231005_i49lh8",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-20",
+      "session_order": 3
+    },
+    {
+      "id": "20260502_231006_u82tgp",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "class_date": "2026-05-27",
+      "session_order": 4
+    },
+    {
+      "id": "20260503_002416_agzedx",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "class_date": "2026-05-12",
+      "session_order": 1
+    },
+    {
+      "id": "20260503_002416_ywj9lp",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "class_date": "2026-05-19",
+      "session_order": 2
+    },
+    {
+      "id": "20260503_002417_8z010w",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "class_date": "2026-05-26",
+      "session_order": 3
+    },
+    {
+      "id": "20260503_012216_vmn6az",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "class_date": "2026-05-12",
+      "session_order": 1
+    },
+    {
+      "id": "20260503_012216_unxbwr",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "class_date": "2026-05-19",
+      "session_order": 2
+    },
+    {
+      "id": "20260503_012217_9hcrxb",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "class_date": "2026-05-26",
+      "session_order": 3
+    },
+    {
+      "id": "20260503_012237_gxe110",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "class_date": "2026-05-12",
+      "session_order": 1
+    },
+    {
+      "id": "20260503_012237_m395pg",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "class_date": "2026-05-19",
+      "session_order": 2
+    },
+    {
+      "id": "20260503_012238_eu1bcv",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "class_date": "2026-05-26",
+      "session_order": 3
+    }
+  ],
+  "doc_records": [
+    {
+      "id": "20260428_221806_59ag4m",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "월간계획서",
+      "status": "완료",
+      "generated_at": "2026-04-29"
+    },
+    {
+      "id": "20260428_221806_fp0108",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "출석부",
+      "status": "실패",
+      "generated_at": "2026-05-02"
+    },
+    {
+      "id": "20260428_221806_orha77",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "활동일지",
+      "status": "실패",
+      "generated_at": "2026-05-02"
+    },
+    {
+      "id": "20260428_221807_8489yr",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "강사료청구서",
+      "status": "실패",
+      "generated_at": "2026-05-02"
+    },
+    {
+      "id": "20260428_221807_bzfyej",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "수강생명단",
+      "status": "실패",
+      "generated_at": "2026-05-02"
+    },
+    {
+      "id": "20260428_221808_43xt8u",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "교구비내역서",
+      "status": "실패",
+      "generated_at": "2026-05-02"
+    },
+    {
+      "id": "20260428_222502_kn0s40",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "월간계획서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260428_222503_58js5t",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "출석부",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260428_222503_sccqbo",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "활동일지",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260428_222503_j13gsx",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "강사료청구서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260428_222504_efmjdt",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "수강생명단",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260428_222504_4uttwl",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "교구비내역서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260428_222751_qsioyf",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "월간계획서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260428_222752_kv89ni",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "출석부",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260428_222753_bgrruf",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "활동일지",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260428_222753_yv0u1b",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "강사료청구서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260428_222754_2jfw53",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "수강생명단",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260428_222754_fiwnmn",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-05",
+      "doc_type": "교구비내역서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260429_205922_bk9l54",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "doc_type": "월간계획서",
+      "status": "실패",
+      "generated_at": "2026-05-02"
+    },
+    {
+      "id": "20260429_205922_7kmrkk",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "doc_type": "출석부",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260429_205923_9yfv2h",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "doc_type": "활동일지",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260429_205923_inlyeg",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "doc_type": "강사료청구서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260429_205923_g1ccgj",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "doc_type": "수강생명단",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260429_205924_7psuei",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "doc_type": "교구비내역서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260501_005018_mwhfc6",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "doc_type": "월간계획서",
+      "status": "완료",
+      "generated_at": "2026-05-01"
+    },
+    {
+      "id": "20260501_005018_w20kvp",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "doc_type": "출석부",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260501_005018_z4rdz9",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "doc_type": "활동일지",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260501_005019_c6sz5a",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "doc_type": "강사료청구서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260501_005020_veeefp",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "doc_type": "수강생명단",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260501_005020_w14bmj",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-04",
+      "doc_type": "교구비내역서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_161334_89ywks",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "doc_type": "월간계획서",
+      "status": "완료",
+      "generated_at": "2026-05-02"
+    },
+    {
+      "id": "20260502_161334_1w7lfn",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "doc_type": "출석부",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_161335_yhwupn",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "doc_type": "활동일지",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_161335_a28omf",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "doc_type": "강사료청구서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_161335_o7jf80",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "doc_type": "수강생명단",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_161336_rv869p",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-03",
+      "doc_type": "교구비내역서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_180626_ej9im7",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-06",
+      "doc_type": "월간계획서",
+      "status": "실패",
+      "generated_at": "2026-05-02"
+    },
+    {
+      "id": "20260502_180626_0gp7mc",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-06",
+      "doc_type": "출석부",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_180628_erwi50",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-06",
+      "doc_type": "활동일지",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_180628_cadhn5",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-06",
+      "doc_type": "강사료청구서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_180629_hqo5vk",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-06",
+      "doc_type": "수강생명단",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_180629_kei8yt",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-06",
+      "doc_type": "교구비내역서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_191718_i7kehc",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "doc_type": "월간계획서",
+      "status": "완료",
+      "generated_at": "2026-05-02"
+    },
+    {
+      "id": "20260502_191718_pp7wbf",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "doc_type": "출석부",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_191719_g1iomn",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "doc_type": "활동일지",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_191720_q7v8h8",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "doc_type": "강사료청구서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_191720_21fuhq",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "doc_type": "수강생명단",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_191720_566ay6",
+      "school_id": "20260428_000001_bopsu",
+      "year_month": "2026-06",
+      "doc_type": "교구비내역서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_231007_8vs2t5",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "doc_type": "월지도계획서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_231007_n59qo1",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "doc_type": "수강생명단(통합)",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_231008_pe76z3",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "doc_type": "수강료내역서(분리)",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_231008_ww94z3",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "doc_type": "재료비내역서(분리)",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260502_231009_3je1sl",
+      "school_id": "20260428_000003_yegok",
+      "year_month": "2026-05",
+      "doc_type": "교구비총괄표",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260503_002418_auha65",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "doc_type": "월지도계획서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260503_002418_dtku9f",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "doc_type": "출석부",
+      "status": "실패",
+      "generated_at": "2026-05-03"
+    },
+    {
+      "id": "20260503_002418_uwyvx0",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "doc_type": "활동일지",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260503_002419_1t4qfl",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "doc_type": "강사료청구서",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260503_002420_9ruoje",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "doc_type": "수강생명단(통합)",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260503_002420_tuc105",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "doc_type": "수강료내역서(분리)",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260503_002420_e8kmt0",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "doc_type": "재료비내역서(분리)",
+      "status": "대기",
+      "generated_at": ""
+    },
+    {
+      "id": "20260503_002421_ziqen8",
+      "school_id": "20260428_000002_hoam",
+      "year_month": "2026-05",
+      "doc_type": "교구비총괄표",
+      "status": "대기",
+      "generated_at": ""
+    }
+  ]
+}
