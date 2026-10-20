@@ -1,0 +1,44 @@
+# 매일 오전 10시(한국시간)에 GitHub 백업이 멈췄는지 확인합니다.
+# 최신 snapshot 이 2일 이상 지났으면 이슈를 1개 만들어 알리고(이미 열려 있으면 새로 만들지 않음),
+# 백업이 다시 들어오면 그 이슈를 자동으로 닫습니다.
+name: backup-check
+
+on:
+  schedule:
+    - cron: "7 1 * * *"   # UTC 01:07 = 한국시간 10:07
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: snapshots
+      - name: 최신 백업 날짜 확인
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TITLE: "⚠️ 자동 백업(snapshot)이 멈췄습니다"
+        run: |
+          latest=$(ls snapshots | sed -n 's/^snapshot_\([0-9-]*\)\.json$/\1/p' | sort | tail -1)
+          today=$(TZ=Asia/Seoul date +%F)
+          gap=$(( ( $(date -d "$today" +%s) - $(date -d "${latest:-1970-01-01}" +%s) ) / 86400 ))
+          echo "최신 백업: $latest / 오늘: $today / 경과: ${gap}일"
+          open=$(gh issue list --state open --search "in:title \"$TITLE\"" --json number --jq '.[0].number')
+          if [ "$gap" -ge 2 ]; then
+            if [ -z "$open" ]; then
+              gh issue create --title "$TITLE" --body "마지막 백업: **$latest** (${gap}일 전)
+
+          구글 시트 원본은 안전하지만, 매일 백업이 GitHub에 쌓이지 않고 있습니다.
+          확인 순서는 docs/시스템구조.md 의 '백업이 멈췄을 때' 를 보세요."
+            else
+              echo "이미 알림 이슈 #$open 이 열려 있어 새로 만들지 않습니다."
+            fi
+            exit 1
+          elif [ -n "$open" ]; then
+            gh issue close "$open" --comment "백업이 다시 들어왔습니다 (최신: $latest)."
+          fi
